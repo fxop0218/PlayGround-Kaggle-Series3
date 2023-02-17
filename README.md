@@ -1,1 +1,3 @@
-# PlayGround-Kaggle-Series3-E7-Data-analysis-and-simple-model
+# PlayGround-Kaggle-Series3
+
+All my models in PlayGround series 2023
