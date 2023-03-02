@@ -1,6 +1,6 @@
 # PlayGround-Kaggle-Series3
 
-All my models in PlayGround series 2023
+All models in PlayGround series 2023
 
 [PS-5]()
 
