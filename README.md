@@ -17,3 +17,5 @@ All models in PlayGround series 2023
 [PS-11](https://www.kaggle.com/code/francescoliveras/ps-s3-e11-eda-model-en-es) (Current)
 
 [PS-12](https://www.kaggle.com/code/francescoliveras/ps-s3-e11-eda-model-en-es) (Not started)
+
+[PS-13](https://www.kaggle.com/code/francescoliveras/ps-s3-e11-eda-model-en-es) (Not started)
